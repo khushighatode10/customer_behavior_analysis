@@ -14,7 +14,6 @@ A structured dataset used for data exploration, transformation, SQL analysis, an
 * 🗄️ PostgreSQL / MySQL / SQL Server
 * 📈 Power BI
 * 📓 Jupyter Notebook
-* 🎨 Gamma AI
 
 ## 🔄 Project Workflow
 
@@ -24,7 +23,6 @@ A structured dataset used for data exploration, transformation, SQL analysis, an
 * 📝 Run SQL queries for insights
 * 📊 Build an interactive Power BI dashboard
 * 📄 Create a project report
-* 🎤 Generate a presentation using Gamma AI
 
 ## 📊 Dashboard Features
 
@@ -38,7 +36,6 @@ A structured dataset used for data exploration, transformation, SQL analysis, an
 * ✅ Improved data quality through cleaning
 * ✅ Extracted valuable insights using Python & SQL
 * ✅ Developed an interactive Power BI dashboard
-* ✅ Presented findings through reports and presentations
 
 ## ▶️ How to Run
 
